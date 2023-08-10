@@ -1,2 +1,1 @@
-# Form
-Prueba de la sonrisa 2
+Proyecto forms en html, donde guarda los datos en un correo como: foto, edad, valoracion.
