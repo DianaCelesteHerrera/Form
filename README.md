@@ -1,1 +1,6 @@
-Proyecto forms en html, donde guarda los datos en un correo como: foto, edad, valoracion.
+Este proyecto implica la creación de un formulario web utilizando HTML y la librería de diseño Bootstrap. El formulario permitirá a los usuarios ingresar información relevante y adjuntar imágenes. Una vez completado el formulario, los datos se recopilarán y se enviarán automáticamente a través de correo electrónico a una dirección especificada. 💻
+Lenguajes:
+-PHP
+-JavaScript
+-HTML
+-Botstrap
